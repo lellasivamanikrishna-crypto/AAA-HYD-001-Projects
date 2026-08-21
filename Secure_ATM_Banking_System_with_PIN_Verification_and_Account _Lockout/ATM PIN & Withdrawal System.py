@@ -1,5 +1,5 @@
 #task: PIN Verification user should be given 3 chances if 3rd chance is over
-#it should return Account Locked for 24hours -->balance, withdrawl,show the number of chances you have
+#it should return Account Locked for 24hours -->balance, hithdrawl,show the number of chances you have
 
 correct_pin = "1801"
 attempts = 3
